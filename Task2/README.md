@@ -17,7 +17,5 @@
 - Faced and resolved RPC and faucet issues manually
 
 ## 📸 Screenshots
-(Upload the following screenshots in the same `Task2` folder)
 - Remix deployed contract section
 - MetaMask confirmation
-- Token on Mumbai Polygonscan
